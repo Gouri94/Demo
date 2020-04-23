@@ -37,8 +37,14 @@ public class AppTest
     }
     
     
-    public void sayHello()
+    public void sayHelloUSA()
     {
         System.out.println("Hello USA!");
+    }
+    
+    
+    public void sayHelloIndia()
+    {
+        System.out.println("Hi there India!");
     }
 }
