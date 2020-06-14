@@ -8,6 +8,14 @@ public class RESTAPI {
 	}
 	
 	
-
+	public void sayREST()
+	{
+		System.out.println("Hello REST");
+	}
+	
+	public void implementREST()
+	{
+		System.out.println("Implementing REST");
+	}
 
 }
